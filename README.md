@@ -1,13 +1,13 @@
-#Image Processing tag
+# Image Processing 
 
-###*2week* tag
+### 2week
 
 Perform histogram equalization using numpy
 
 ![image](https://user-images.githubusercontent.com/28483545/122226957-6a40bd80-cef1-11eb-983c-6047246ad0ee.png)
 ![image](https://user-images.githubusercontent.com/28483545/122226969-6dd44480-cef1-11eb-9f7a-1888c92d2ff4.png)
 
-###3week
+### 3week
 
 Implementation of average filter, sharpening filter using zero padding and reflection padding
 
@@ -36,7 +36,7 @@ Sharpening filter zero padding(mask : 11 * 13)
 Sharpening filter repetition padding(mask : 11 * 13)
 
 
-###4week
+### 4week
 
 Implementation of Gaussian Filter and Bilinear Interpolation
 
@@ -45,6 +45,7 @@ Implementation of Gaussian Filter and Bilinear Interpolation
 original
 
 ![image](https://user-images.githubusercontent.com/28483545/122228149-8abd4780-cef2-11eb-8a79-92f44ecbfc65.png)
+
 1차 Gaussian filter
 sigma =1       
 
@@ -61,7 +62,7 @@ sigma = 1
 
  1/7 -> 원상복구
 
-###5week
+### 5week
 
 Implementation of Derivative of Gaussian(DoG)
 
@@ -81,7 +82,7 @@ DoG(y)
 
 DoG(x, y) - magnitude
 
-###6week
+### 6week
 
 Canny Edge Detection
 
@@ -93,33 +94,31 @@ Non-Maximum-Suppression
 
 Double Threshold
 
-###7week
+### 7week
 
 Morphological
 
-![image](https://user-images.githubusercontent.com/28483545/122418291-0e476900-cfc5-11eb-9940-7dd06d39b96f.png)
+![image](https://user-images.githubusercontent.com/28483545/122420779-e1945100-cfc6-11eb-9e37-250c7ea57dd8.png)
 
 Binary image
 
-![image](https://user-images.githubusercontent.com/28483545/122418313-130c1d00-cfc5-11eb-83b4-7ac52fb7ecdc.png)
-
-![image](https://user-images.githubusercontent.com/28483545/122418366-1ef7df00-cfc5-11eb-9083-9e68d4987d09.png)
+![image](https://user-images.githubusercontent.com/28483545/122420795-e6590500-cfc6-11eb-854a-709e56c0cad9.png)
 
 Dilation
 
-![image](https://user-images.githubusercontent.com/28483545/122418380-215a3900-cfc5-11eb-846a-99af67b1d006.png)
+![image](https://user-images.githubusercontent.com/28483545/122420811-e953f580-cfc6-11eb-958f-78482b1d096d.png)
 
 Erosion
 
-![image](https://user-images.githubusercontent.com/28483545/122418424-27501a00-cfc5-11eb-94f5-f3292e1252de.png)
+![image](https://user-images.githubusercontent.com/28483545/122420885-f53fb780-cfc6-11eb-92c1-604badf70f76.png)
 
 Opening
 
-![image](https://user-images.githubusercontent.com/28483545/122418535-3d5dda80-cfc5-11eb-9083-adb098bd4400.png)
+![image](https://user-images.githubusercontent.com/28483545/122420897-f7a21180-cfc6-11eb-9ff4-1e42710bb1bf.png)
 
 Closing
 
-###8week
+### 8week
 
 Bilateral Filtering
 
@@ -135,8 +134,7 @@ Gaussian
 
 Bilateral
 
-
-###9week
+### 9week
 
 Discrete Cosine Transform
 
@@ -144,7 +142,7 @@ Discrete Cosine Transform
 
 DCTmask
 
-###10week
+### 10week
 
 JPEG Compression
 
@@ -156,7 +154,7 @@ original
 
 result
 
-###11week
+### 11week
 
 Image Warping
 
@@ -168,7 +166,7 @@ Forward
 
 Backward
 
-###12week
+### 12week
 
 Threshold
 
