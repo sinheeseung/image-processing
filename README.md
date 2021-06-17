@@ -1,15 +1,15 @@
 # Image Processing 
 
-### 2week
+## 2week
 
-Perform histogram equalization using numpy
+### Perform histogram equalization using numpy
 
 ![image](https://user-images.githubusercontent.com/28483545/122226957-6a40bd80-cef1-11eb-983c-6047246ad0ee.png)
 ![image](https://user-images.githubusercontent.com/28483545/122226969-6dd44480-cef1-11eb-9f7a-1888c92d2ff4.png)
 
-### 3week
+## 3week
 
-Implementation of average filter, sharpening filter using zero padding and reflection padding
+### Implementation of average filter, sharpening filter using zero padding and reflection padding
 
 ![image](https://user-images.githubusercontent.com/28483545/122227724-1edadf00-cef2-11eb-9487-f6f7eaedd15e.png)
 
@@ -36,9 +36,9 @@ Sharpening filter zero padding(mask : 11 * 13)
 Sharpening filter repetition padding(mask : 11 * 13)
 
 
-### 4week
+## 4week
 
-Implementation of Gaussian Filter and Bilinear Interpolation
+### Implementation of Gaussian Filter and Bilinear Interpolation
 
 ![image](https://user-images.githubusercontent.com/28483545/122228141-88f38400-cef2-11eb-8dbb-691dba66f901.png)
 
@@ -62,9 +62,9 @@ sigma = 1
 
  1/7 -> 원상복구
 
-### 5week
+## 5week
 
-Implementation of Derivative of Gaussian(DoG)
+### Implementation of Derivative of Gaussian(DoG)
 
 ![image](https://user-images.githubusercontent.com/28483545/122228141-88f38400-cef2-11eb-8dbb-691dba66f901.png)
 
@@ -82,9 +82,9 @@ DoG(y)
 
 DoG(x, y) - magnitude
 
-### 6week
+## 6week
 
-Canny Edge Detection
+### Canny Edge Detection
 
 ![image](https://user-images.githubusercontent.com/28483545/122417729-aabd3b80-cfc4-11eb-902d-e105fb3b4fb3.png)
 
@@ -94,9 +94,9 @@ Non-Maximum-Suppression
 
 Double Threshold
 
-### 7week
+## 7week
 
-Morphological
+### Morphological
 
 ![image](https://user-images.githubusercontent.com/28483545/122420779-e1945100-cfc6-11eb-9e37-250c7ea57dd8.png)
 
@@ -118,9 +118,9 @@ Opening
 
 Closing
 
-### 8week
+## 8week
 
-Bilateral Filtering
+### Bilateral Filtering
 
 ![image](https://user-images.githubusercontent.com/28483545/122418775-6b431f00-cfc5-11eb-8e99-d017fa768271.png)
 
@@ -134,17 +134,17 @@ Gaussian
 
 Bilateral
 
-### 9week
+## 9week
 
-Discrete Cosine Transform
+### Discrete Cosine Transform
 
 ![image](https://user-images.githubusercontent.com/28483545/122419007-962d7300-cfc5-11eb-9ebd-f6cf2a454928.png)
 
 DCTmask
 
-### 10week
+## 10week
 
-JPEG Compression
+### JPEG Compression
 
 ![image](https://user-images.githubusercontent.com/28483545/122419209-b78e5f00-cfc5-11eb-92ee-0220b943460c.png)
 
@@ -154,9 +154,9 @@ original
 
 result
 
-### 11week
+## 11week
 
-Image Warping
+### Image Warping
 
 ![image](https://user-images.githubusercontent.com/28483545/122419682-0f2cca80-cfc6-11eb-8f12-4ad317bb4de5.png)
 
@@ -166,9 +166,9 @@ Forward
 
 Backward
 
-### 12week
+## 12week
 
-Threshold
+### Threshold
 
 ![image](https://user-images.githubusercontent.com/28483545/122419837-2f5c8980-cfc6-11eb-89cc-74a7c3460e08.png)
 
