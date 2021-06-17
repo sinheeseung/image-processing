@@ -14,6 +14,7 @@ Implementation of average filter, sharpening filter using zero padding and refle
 ![image](https://user-images.githubusercontent.com/28483545/122227724-1edadf00-cef2-11eb-9487-f6f7eaedd15e.png)
 
 Average filter padding X
+
 ![image](https://user-images.githubusercontent.com/28483545/122227734-20a4a280-cef2-11eb-9b12-ee76b0a097b4.png)
 
 Average filter zero padding(mask : 11 * 13)
@@ -82,14 +83,107 @@ DoG(x, y) - magnitude
 
 ###6week
 
+Canny Edge Detection
+
+![image](https://user-images.githubusercontent.com/28483545/122417729-aabd3b80-cfc4-11eb-902d-e105fb3b4fb3.png)
+
+Non-Maximum-Suppression
+
+![image](https://user-images.githubusercontent.com/28483545/122417762-b1e44980-cfc4-11eb-9837-e50b1360a77a.png)
+
+Double Threshold
+
 ###7week
+
+Morphological
+
+![image](https://user-images.githubusercontent.com/28483545/122418291-0e476900-cfc5-11eb-9940-7dd06d39b96f.png)
+
+Binary image
+
+![image](https://user-images.githubusercontent.com/28483545/122418313-130c1d00-cfc5-11eb-83b4-7ac52fb7ecdc.png)
+
+![image](https://user-images.githubusercontent.com/28483545/122418366-1ef7df00-cfc5-11eb-9083-9e68d4987d09.png)
+
+Dilation
+
+![image](https://user-images.githubusercontent.com/28483545/122418380-215a3900-cfc5-11eb-846a-99af67b1d006.png)
+
+Erosion
+
+![image](https://user-images.githubusercontent.com/28483545/122418424-27501a00-cfc5-11eb-94f5-f3292e1252de.png)
+
+Opening
+
+![image](https://user-images.githubusercontent.com/28483545/122418535-3d5dda80-cfc5-11eb-9083-adb098bd4400.png)
+
+Closing
 
 ###8week
 
+Bilateral Filtering
+
+![image](https://user-images.githubusercontent.com/28483545/122418775-6b431f00-cfc5-11eb-8e99-d017fa768271.png)
+
+Original + Gaussian noise
+
+![image](https://user-images.githubusercontent.com/28483545/122418795-6f6f3c80-cfc5-11eb-973b-f72d68ae9051.png)
+
+Gaussian
+
+![image](https://user-images.githubusercontent.com/28483545/122418815-7302c380-cfc5-11eb-96da-a40bb19fbed5.png)
+
+Bilateral
+
+
 ###9week
+
+Discrete Cosine Transform
+
+![image](https://user-images.githubusercontent.com/28483545/122419007-962d7300-cfc5-11eb-9ebd-f6cf2a454928.png)
+
+DCTmask
 
 ###10week
 
+JPEG Compression
+
+![image](https://user-images.githubusercontent.com/28483545/122419209-b78e5f00-cfc5-11eb-92ee-0220b943460c.png)
+
+original
+
+![image](https://user-images.githubusercontent.com/28483545/122419233-b9f0b900-cfc5-11eb-9fd6-311c541f22c7.png)
+
+result
+
 ###11week
 
+Image Warping
+
+![image](https://user-images.githubusercontent.com/28483545/122419682-0f2cca80-cfc6-11eb-8f12-4ad317bb4de5.png)
+
+Forward
+
+![image](https://user-images.githubusercontent.com/28483545/122419689-10f68e00-cfc6-11eb-8d6f-77414e2dc24d.png)
+
+Backward
+
 ###12week
+
+Threshold
+
+![image](https://user-images.githubusercontent.com/28483545/122419837-2f5c8980-cfc6-11eb-89cc-74a7c3460e08.png)
+
+Meat
+
+![image](https://user-images.githubusercontent.com/28483545/122419864-34213d80-cfc6-11eb-832b-06b037a59520.png)
+
+Mask
+
+![image](https://user-images.githubusercontent.com/28483545/122419892-38e5f180-cfc6-11eb-9c3c-37361a0b9881.png)
+
+dst
+
+![image](https://user-images.githubusercontent.com/28483545/122419917-3daaa580-cfc6-11eb-8775-9fa3e876d740.png)
+
+Final
